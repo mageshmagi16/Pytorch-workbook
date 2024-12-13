@@ -1,4 +1,4 @@
-﻿# Pytorch-workbook - Training model - Practice
+﻿# Pytorch-workbook - Training model - Practice & Learn
 
 Steps to activate virtual environment:
 
