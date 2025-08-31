@@ -2,7 +2,7 @@
 
 Steps to activate virtual environment:
 
-    Step 1: Pip install virtualenv  
+    Step 1: Pip install virtualenv   
  
     Step 2: create virtual torchenv
  
@@ -10,3 +10,4 @@ Steps to activate virtual environment:
   
  
  
+
