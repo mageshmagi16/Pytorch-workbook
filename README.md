@@ -1,6 +1,6 @@
 ﻿# Pytorch-workbook - Training model - Practice & Learn
 
-Steps to activate virtual environment:
+Steps to activate virtual environment: 
 
     Step 1: Pip install virtualenv   
  
@@ -10,5 +10,6 @@ Steps to activate virtual environment:
   
   
  
+
 
 
